@@ -1,6 +1,3 @@
-# aula-pwi
-Repositório para 1ᵃ aula de GitHub 
-----------------------------------
 Git
 Inicialização:
 cmd > git
@@ -23,7 +20,6 @@ Shif + Insert (cola o endereço do repositório criado)
 Comando para remover nome de usuário
 git config --global unset-all user.name
 ----------------------------------
-
 Comando para remover e-mail
 git config --global --unset-all user.mail
 ----------------------------------
@@ -37,8 +33,6 @@ git commit -m "Descricao"
 
 Push
 git push
-
-----------------------------------
 ----------------------------------
 Navegar entre diretórios
 cd (change directory)
